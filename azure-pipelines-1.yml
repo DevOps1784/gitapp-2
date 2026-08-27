@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: 'C:\Users\ndirisal\Downloads\gitapp\gitapp-2'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
